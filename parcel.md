@@ -19,7 +19,7 @@
     + create script: ```"dev": "parcel ./src/index.html"```
 
 7. Open terminal
-    + ```npm run dev````
+    + ```npm run dev```
 
 8. Click at 
     + http://localhost:1234 
